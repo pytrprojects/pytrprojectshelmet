@@ -1,6 +1,5 @@
 {
-    "version": "1.1.0",
-    "download_url": "https://ornekdomain.com/guncelleme/app_update.zip",
-    "description": "Yeni özellikler, hata düzeltmeleri ve performans iyileştirmeleri içeriyor."
-  }
-  
+  "version": "1.1.0",
+  "download_url": "https://ornekdomain.com/app_update.zip",
+  "description": "Yeni özellikler, hata düzeltmeleri ve performans iyileştirmeleri içeriyor."
+}
